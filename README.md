@@ -2,7 +2,7 @@
 title: "AgeStudy_Wuetal_scRNAseq"
 format: html
 editor: visual
-R version: 4.5.2 (2025-10-31) -- "Not Part in a Rumble"
+R version: 4.4.2 (2025-10-31) -- "Not Part in a Rumble"
 ---
 
 # Human scRNA-seq data analysis information, dataset from Wu et al. 2021. Nat. Genetics
